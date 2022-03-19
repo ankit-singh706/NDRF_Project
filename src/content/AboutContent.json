@@ -1,0 +1,12 @@
+{
+  "title": "NDRF",
+  "text": "The aim of the National Disaster Management Authority is to build a safer and disaster resilient India by developing a holistic, proactive, multi-disaster and technology driven strategy for disaster management. This has to be achieved through a culture of prevention , mitigation and preparedness to generate a prompt and efficient response at the time of disasters.",
+  "section": [
+    {
+      "title": "Why Blockchain?",
+      "content": "Blockchain is used to address the challenges in disaster response mechanisms. It is a secure, distributed, and immutable digital ledger that records transactions",
+      "icon": "notes.svg"
+    }
+    
+  ]
+}
